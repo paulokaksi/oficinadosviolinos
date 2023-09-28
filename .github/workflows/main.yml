@@ -13,7 +13,7 @@ jobs:
       with:
         server: 34.175.178.71
         username: oficinaviolinoskaksimediapt
-        password: ${{ kaksioficina.VXx8JuO4ve05FIS }}
+        password: ${{ kaksioficina.4SVTjeFtm3pLm2c }}
         protocol: ftps
         port: 19826
         server-dir: public-html/wp-content/themes/km-oficina
