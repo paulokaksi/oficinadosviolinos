@@ -7,7 +7,7 @@ function km_oficina_enqueue_styles()
 {
 	wp_enqueue_style('km_oficina-style', get_stylesheet_directory_uri() . '/style.css', false, '1.0');
 }
- add_action( 'wp_enqueue_scripts', 'km_oficina_enqueue_styles', 20 );
+// add_action( 'wp_enqueue_scripts', 'km_oficina_enqueue_styles', 20 );
 
 
 /**
