@@ -14,7 +14,7 @@ jobs:
         server: 34.175.178.71
         username: oficinaviolinoskaksimediapt
         password: ${{ secrets.ftp_password }}
-        protocol: ftps
+        protocol: ftps-legacy
         port: 19826
         server-dir: public/wp-content/themes/km-oficina/
         
