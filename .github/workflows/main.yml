@@ -11,6 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: 35.214.207.51
-        username: teste@kaksim1.sg-host.com
+        server: 34.175.178.71
+        username: oficinaviolinoskaksimediapt
         password: ${{ secrets.password }}
+        port: 58746
